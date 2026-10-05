@@ -1,0 +1,10 @@
+Tajá — natureza em módulos.
+Marca para loja de ladrilhos hidráulicos.
+Nome no logotipo convertido em curvas; descritor em Arial editável.
+Paleta e regras: consultar taja-guia-visual.html.
+Aplicações são modelos conceituais; dados comerciais devem ser preenchidos.
+SVGs e PNGs oficiais são a referência de produção.
+Mockup fotográfico: gerado com a ferramenta integrada image_gen, usando o logo principal como referência.
+Prompt: fotografia editorial de identidade Tajá, com logo de referência preservado, cartão verde, etiqueta cal, embalagem com padrão botânico modular verde e argila, ladrilhos hidráulicos foscos e folha ampla; luz natural lateral, fundo de estúdio bege; sem textos extras.
+
+Revisão 02: rosa folha #E8A6B7, vinho nervura #78344C, verde lima #C5D56A. Logo, tipografia e conceito preservados. Base: verde e cal; rosa: acento ampliado; vinho: contraste; lima: pontos de luz.

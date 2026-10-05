@@ -1,0 +1,146 @@
+[
+  {
+    "nome": "Verde tajá",
+    "hex": "#214D3C",
+    "rgb": [
+      33,
+      77,
+      60
+    ],
+    "cmyk_aproximado": [
+      57,
+      0,
+      22,
+      70
+    ],
+    "uso": "Principal · 25%"
+  },
+  {
+    "nome": "Cal",
+    "hex": "#F3ECDD",
+    "rgb": [
+      243,
+      236,
+      221
+    ],
+    "cmyk_aproximado": [
+      0,
+      3,
+      9,
+      5
+    ],
+    "uso": "Base · 35%"
+  },
+  {
+    "nome": "Rosa folha",
+    "hex": "#E8A6B7",
+    "rgb": [
+      232,
+      166,
+      183
+    ],
+    "cmyk_aproximado": [
+      0,
+      28,
+      21,
+      9
+    ],
+    "uso": "Acento · 15%"
+  },
+  {
+    "nome": "Argila",
+    "hex": "#B85F43",
+    "rgb": [
+      184,
+      95,
+      67
+    ],
+    "cmyk_aproximado": [
+      0,
+      48,
+      64,
+      28
+    ],
+    "uso": "Acento · 8%"
+  },
+  {
+    "nome": "Sálvia",
+    "hex": "#97A68C",
+    "rgb": [
+      151,
+      166,
+      140
+    ],
+    "cmyk_aproximado": [
+      9,
+      0,
+      16,
+      35
+    ],
+    "uso": "Apoio · 5%"
+  },
+  {
+    "nome": "Areia",
+    "hex": "#D9C7A7",
+    "rgb": [
+      217,
+      199,
+      167
+    ],
+    "cmyk_aproximado": [
+      0,
+      8,
+      23,
+      15
+    ],
+    "uso": "Apoio · 4%"
+  },
+  {
+    "nome": "Carvão",
+    "hex": "#292E29",
+    "rgb": [
+      41,
+      46,
+      41
+    ],
+    "cmyk_aproximado": [
+      11,
+      0,
+      11,
+      82
+    ],
+    "uso": "Texto · 3%"
+  },
+  {
+    "nome": "Vinho nervura",
+    "hex": "#78344C",
+    "rgb": [
+      120,
+      52,
+      76
+    ],
+    "cmyk_aproximado": [
+      0,
+      57,
+      37,
+      53
+    ],
+    "uso": "Apoio · 3%"
+  },
+  {
+    "nome": "Verde lima",
+    "hex": "#C5D56A",
+    "rgb": [
+      197,
+      213,
+      106
+    ],
+    "cmyk_aproximado": [
+      8,
+      0,
+      50,
+      16
+    ],
+    "uso": "Apoio · 2%"
+  }
+]
